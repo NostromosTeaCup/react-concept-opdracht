@@ -1,0 +1,27 @@
+.nav-inner_container {
+    flex-basis: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: var(--header-bg);
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    gap: 65px;
+    height: 30px;
+    padding: 20px 150px 20px;
+}
+
+li a,
+li {
+    text-decoration: none;
+    color: var(--card-color);
+
+}
