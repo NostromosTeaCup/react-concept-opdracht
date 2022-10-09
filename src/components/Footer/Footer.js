@@ -6,7 +6,7 @@ function Footer() {
         <>
 
 <footer className="outer-container">
-    <div className="inner-container">
+    <div className="inner-container footer">
         In opdracht van Hogeschool NOVI © 2022
     </div>
 </footer>

@@ -1,0 +1,30 @@
+main,
+.home-div,
+section {
+    background-color: var(--main-bg);
+}
+
+section {
+    text-align: center;
+}
+
+.home-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.outer-container__home {
+    display: flex;
+    flex-direction: column;
+}
+

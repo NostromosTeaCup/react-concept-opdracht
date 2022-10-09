@@ -25,6 +25,15 @@ h6 {
     font-family: 'Quicksand', sans-serif;
 }
 
+h1 {
+    text-transform: capitalize;
+    font-size: 65px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
 body {
     font-family: 'Roboto Condensed', sans-serif;
 }
